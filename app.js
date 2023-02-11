@@ -13,9 +13,9 @@ venom
 
 function start(client) {
   client.onMessage((message) => {
-    if (message.body === 'Hi' && message.isGroupMsg === false) {
+    if (message.body === 'Oi' && message.isGroupMsg === false) {
       client
-        .sendText(message.from, 'Welcome Venom 🕷')
+        .sendText(message.from, 'Bem vindo ao bot do João')
         .then((result) => {
           console.log('Result: ', result); //return object success
         })
