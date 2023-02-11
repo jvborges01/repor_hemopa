@@ -1,30 +1,13 @@
-2023/02/10-20:28:03.302 2398 Reusing MANIFEST C:\Users\jfial\OneDrive\Documentos\GitHub\hemopa\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/10-20:28:03.429 2274 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/02/10-20:30:11.806 2130 Level-0 table #5: started
-2023/02/10-20:30:11.860 2130 Level-0 table #5: 1141558 bytes OK
-2023/02/10-20:30:11.867 2130 Delete type=0 #3
-2023/02/10-20:30:15.016 11b8 Level-0 table #7: started
-2023/02/10-20:30:15.058 11b8 Level-0 table #7: 1137909 bytes OK
-2023/02/10-20:30:15.064 11b8 Delete type=0 #4
-2023/02/10-20:30:15.069 11b8 Compacting 1@1 + 1@2 files
-2023/02/10-20:30:15.148 11b8 Generated table #8@1: 23117 keys, 1346455 bytes
-2023/02/10-20:30:15.148 11b8 Compacted 1@1 + 1@2 files => 1346455 bytes
-2023/02/10-20:30:15.153 11b8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/02/10-20:30:15.153 11b8 Delete type=2 #5
-2023/02/10-20:30:15.154 11b8 Delete type=2 #7
-2023/02/10-20:30:18.448 2130 Level-0 table #10: started
-2023/02/10-20:30:18.493 2130 Level-0 table #10: 1023265 bytes OK
-2023/02/10-20:30:18.499 2130 Delete type=0 #6
-2023/02/10-20:30:18.826 2130 Compacting 1@1 + 1@2 files
-2023/02/10-20:30:18.938 2130 Generated table #11@1: 28405 keys, 1687008 bytes
-2023/02/10-20:30:18.938 2130 Compacted 1@1 + 1@2 files => 1687008 bytes
-2023/02/10-20:30:18.941 2130 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/02/10-20:30:20.185 1d2c Level-0 table #13: started
-2023/02/10-20:30:20.222 1d2c Level-0 table #13: 910737 bytes OK
-2023/02/10-20:30:20.225 1d2c Delete type=2 #8
-2023/02/10-20:30:20.225 1d2c Delete type=0 #9
-2023/02/10-20:30:20.225 1d2c Delete type=2 #10
-2023/02/10-20:30:20.242 2130 Compacting 1@1 + 1@2 files
-2023/02/10-20:30:20.341 2130 Generated table #14@1: 37397 keys, 2190416 bytes
-2023/02/10-20:30:20.341 2130 Compacted 1@1 + 1@2 files => 2190416 bytes
-2023/02/10-20:30:20.343 2130 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/10-22:11:53.497 23cc Reusing MANIFEST C:\Users\jfial\OneDrive\Documentos\GitHub\hemopa\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/10-22:11:53.498 23cc Recovering log #20
+2023/02/10-22:11:53.679 23cc Reusing old log C:\Users\jfial\OneDrive\Documentos\GitHub\hemopa\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000020.log 
+2023/02/10-22:12:05.276 2090 Level-0 table #25: started
+2023/02/10-22:12:05.337 2090 Level-0 table #25: 1056270 bytes OK
+2023/02/10-22:12:05.341 2090 Delete type=0 #20
+2023/02/10-22:12:05.347 1718 Compacting 1@1 + 1@2 files
+2023/02/10-22:12:05.499 1718 Generated table #26@1: 35301 keys, 2217503 bytes
+2023/02/10-22:12:05.517 1718 Generated table #27@1: 8809 keys, 192153 bytes
+2023/02/10-22:12:05.518 1718 Compacted 1@1 + 1@2 files => 2409656 bytes
+2023/02/10-22:12:05.520 1718 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/02/10-22:12:05.521 1718 Delete type=2 #22
+2023/02/10-22:12:05.521 1718 Delete type=2 #25
